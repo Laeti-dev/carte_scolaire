@@ -24,6 +24,9 @@ For this project, we worked with GEO JSON files to be able to represent France r
 * IPS (indice de position sociale) : gives an indeication about family context influencing on education
 * List of streets affiliated to this school
 
+Exemple in Normandie Academy :  
+<img src="./assets/exemple_normandie.png" alt="Normandie Academy" width="500"/>  
+
 
 ## What to improve next
 * automatically show school when clicking ang zooming on an academic area
